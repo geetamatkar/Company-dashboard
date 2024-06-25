@@ -16,3 +16,4 @@ class Company(models.Model):
     added_date=models.DateTimeField(auto_now=True)
     active=models.BooleanField(default=True)
 
+#Employee model
